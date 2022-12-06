@@ -1,3 +1,5 @@
 this is new.txt
 I will add some text here to help me out with git repo experiment.
-this is the first line added here
+this is the first line added here.
+this is the second line added here.
+this is the third line added here.
